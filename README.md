@@ -1,12 +1,25 @@
 <h1 align="center">
-  Hi there 👋
+  Hi there!👋  I’m Cláudio Yuri (claudiuri)
 </h1>
 
-- 🔭 I’m currently working on [ArtInformatica](https://www.crmvendamais.com/) as Developer, a company from Salvador, Brazil.
+- 🔭 I’m currently working on [ArtInformatica](https://www.crmvendamais.com/) as Web Developer, a company from Salvador, Brazil.
 - 🌱 I’m currently learning about Kubernetes (container orchestration).
-- :atom: Techs: Node, TypeScript, Jest, Express, Sequelize, among others.
 
-Would you like to find me?
+## Skills:
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diegoscosta/)](https://www.linkedin.com/in/claudiuri/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:claudio.y07@gmail.com)](mailto:claudio.y07@gmail.com)
+💻 &nbsp; Programming: <br/>
+
+![HTML](https://img.shields.io/badge/-HTML-E44D25?style=flat&logoColor=fff&logo=html5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-254DE6?style=flat&logoColor=fff&logo=css3)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-FEAE32?style=flat&logoColor=fff&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logoColor=fff&logo=typescript)&nbsp;
+![ReactJs](https://img.shields.io/badge/-React.js-18BCEE?style=flat&logoColor=fff&logo=react)&nbsp;
+![Node](https://img.shields.io/badge/-Node.js-5B9856?style=flat&logoColor=fff&logo=node.js)&nbsp;
+![GraphQL](https://img.shields.io/badge/-GraphQL-E034A7?style=flat&logoColor=fff&logo=graphql)&nbsp;
+![GraphQL](https://img.shields.io/badge/-CSharp-3B00937?style=flat&logoColor=fff&logo=c+sharp)
+
+🚩 &nbsp; Would you like to find me?
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/claudiuri)](https://www.linkedin.com/in/claudiuri/)&nbsp;
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c5392a?style=flat&logo=Gmail&logoColor=white&link=mailto:rbritox.js@gmail.com)](mailto:claudio.y07@gmail.com)&nbsp;
+
