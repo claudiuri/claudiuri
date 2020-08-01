@@ -1,25 +1,52 @@
-<h1 align="center">
-  Hi there!👋  I’m Cláudio Yuri (claudiuri)
-</h1>
+<p align="center">
+  <img src="https://github.com/claudiuri/claudiuri/blob/master/logo.png" width="500"
+  alt="claudiuri.github.io" />
+</p>
 
-- 🔭 I’m currently working on [ArtInformatica](https://www.crmvendamais.com/) as Web Developer, a company from Salvador, Brazil.
-- 🌱 I’m currently learning about Kubernetes (container orchestration).
+<p align="center">
+  JavaScript | Node.js | TypeScript | C# | ReactJS | HTML | CSS | Git
+</p>
 
-## Skills:
+<p align="center">
+  <a
+    href="mailto:claudio.y07@gmail.com" 
+    alt="Gmail"
+    target="blank"
+  >
+    <img src="https://img.shields.io/badge/-Gmail-242627?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a
+    href="https://www.linkedin.com/in/claudiuri" 
+    alt="LinkedIn"
+    target="blank"
+  >
+    <img src="https://img.shields.io/badge/-LinkedIn-242627?style=flat&logo=Linkedin&logoColor=white" />
+  </a>
+  <a
+    href="https://github.com/claudiuri"
+    alt="GitHub"
+    target="blank"
+  >
+    <img src="https://img.shields.io/badge/-GitHub-242627?style=flat&logo=Github&logoColor=white" />
+  </a>
+  <a
+    href="https://www.instagram.com/claudiuri" 
+    alt="Instagram"
+    target="blank"
+  >
+    <img src="https://img.shields.io/badge/-Instagram-242627?style=flat&logo=Instagram&logoColor=white" />
+  </a>
+</p>
 
-💻 &nbsp; Programming: <br/>
-
-![HTML](https://img.shields.io/badge/-HTML-E44D25?style=flat&logoColor=fff&logo=html5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-254DE6?style=flat&logoColor=fff&logo=css3)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-FEAE32?style=flat&logoColor=fff&logo=javascript)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logoColor=fff&logo=typescript)&nbsp;
-![ReactJs](https://img.shields.io/badge/-React.js-18BCEE?style=flat&logoColor=fff&logo=react)&nbsp;
-![Node](https://img.shields.io/badge/-Node.js-5B9856?style=flat&logoColor=fff&logo=node.js)&nbsp;
-![GraphQL](https://img.shields.io/badge/-GraphQL-E034A7?style=flat&logoColor=fff&logo=graphql)&nbsp;
-![GraphQL](https://img.shields.io/badge/-CSharp-3B00937?style=flat&logoColor=fff&logo=c+sharp)
-
-🚩 &nbsp; Would you like to find me?
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/claudiuri)](https://www.linkedin.com/in/claudiuri/)&nbsp;
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c5392a?style=flat&logo=Gmail&logoColor=white&link=mailto:rbritox.js@gmail.com)](mailto:claudio.y07@gmail.com)&nbsp;
-
+<h4 align="center">
+  Hey, I'm Cláudio Yuri! 👋
+</h4>
+<p align="center">
+  📌 Living in <b>Salvador</b>, <b>Bahia</b>, <b>Brazil</b> &nbsp; 💼 FullStack Software Developer at <b>ArtInformatica</b>
+</p>
+<p align="center">
+  📚 Graduate in <b>Analysis and Systems Development</b> &nbsp; 🎓 PostGraduate Student  in <b>Software Engineering</b> &nbsp;
+</p>
+<p align="center">
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 🚀 Learning about <b>Kubernetes</b> &nbsp; 🎯 Focused in <b>Node.JS</b>, <b>ReactJS</b> and <b>C#</b>
+</p>
