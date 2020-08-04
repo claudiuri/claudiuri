@@ -53,8 +53,8 @@
 <center>
 <table>
   <tr>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudiuri&hide=html&layout=compact&theme=dark" /></td>
-      <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=claudiuri&theme=dark" /></td>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudiuri&hide=html&theme=dark&show_icons=true&layout=compact" /></td>
+      <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=claudiuri&theme=dark&show_icons=true" /></td>
   </tr>   
 </table>
 </center>
