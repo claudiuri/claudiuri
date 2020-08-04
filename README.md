@@ -50,3 +50,13 @@
 <p align="center">
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 🚀 Learning about <b>Kubernetes</b> &nbsp; 🎯 Focused in <b>Node.JS</b>, <b>ReactJS</b> and <b>C#</b>
 </p>
+<center>
+<table>
+  <tr>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudiuri&hide=html&layout=compact&theme=dark" /></td>
+      <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=claudiuri&theme=dark" /></td>
+  </tr>   
+</table>
+</center>
+
+
