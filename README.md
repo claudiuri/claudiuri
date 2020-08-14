@@ -42,7 +42,7 @@
   Hey, I'm Cláudio Yuri! 👋
 </h4>
 <p align="center">
-  📌 Living in <b>Salvador</b>, <b>Bahia</b>, <b>Brazil</b> &nbsp; 💼 FullStack Software Developer at <b>ArtInformatica</b>
+  📌 Living in <b>Salvador</b>, <b>Bahia</b>, <b>Brazil</b> &nbsp; 💼 BackEnd Developer at <b><a href="https://cubos.io/">Cubos</a></b>
 </p>
 <p align="center">
   📚 Graduate in <b>Analysis and Systems Development</b> &nbsp; 🎓 PostGraduate Student  in <b>Software Engineering</b> &nbsp;
