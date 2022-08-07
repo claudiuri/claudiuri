@@ -42,13 +42,13 @@
   Hey, I'm Cláudio Yuri! 👋
 </h4>
 <p align="center">
-  📌 Living in <b>Salvador</b>, <b>Bahia</b>, <b>Brazil</b> &nbsp; 💼 BackEnd Developer at <b><a href="https://cubos.io/">Cubos</a></b>
+  📌 Living in <b>Salvador</b>, <b>Bahia</b>, <b>Brazil</b> &nbsp; 💼 Software Engenier at <b><a href="https://nubank.com.br/">Nubank</a></b>
 </p>
 <p align="center">
-  📚 Graduate in <b>Analysis and Systems Development</b> &nbsp; 🎓 PostGraduate Student  in <b>Software Engineering</b> &nbsp;
+  📚 Graduate in <b>Analysis and Systems Development</b> &nbsp;
 </p>
 <p align="center">
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 🚀 Learning about <b>Kubernetes</b> &nbsp; 🎯 Focused in <b>Node.JS</b>, <b>ReactJS</b> and <b>C#</b>
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 🚀 Learning <b>Clojure</b> &nbsp; 🎯 Focused in <b>Clojure</b>, <b>Datomic</b> and <b>Functional programming</b>
 </p>
 <center>
 <table>
