@@ -42,7 +42,7 @@
   Hey, I'm Cláudio Yuri! 👋
 </h4>
 <p align="center">
-  📌 Living in <b>Salvador</b>, <b>Bahia</b>, <b>Brazil</b> &nbsp; 💼 Software Engenier at <b><a href="https://nubank.com.br/">Nubank</a></b>
+  📌 Living in <b>Salvador</b>, <b>Bahia</b>, <b>Brazil</b> &nbsp; 💼 Software Engineer at <b><a href="https://nubank.com.br/">Nubank</a></b>
 </p>
 <p align="center">
   📚 Graduate in <b>Analysis and Systems Development</b> &nbsp;
